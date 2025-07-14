@@ -49,6 +49,7 @@ To run different tests, simply modify:
 - **Obstacle Positions, Heights, and Widths**  
 - **Waypoint Positions**
 - **Disturbances**
+- Simulink Time more or less equal to *260 s* for City Scenario and *115 s* for 3 Obstacles Scenario
 
 Everything else is straightforward thanks to the simplicity of the main script.
 
