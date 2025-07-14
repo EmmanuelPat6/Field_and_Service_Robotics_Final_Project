@@ -43,8 +43,8 @@ Three control strategy have been implemented:
 # 🛠️ Customization & Parameters
 
 To run different tests, simply modify:
+- **Simulation Parameters** like, for example, *gain matrices* for controllers or the order `r` of teh Estimator
 - **Obstacle Positions, Heights, and Widths**  
-- **Simulation Parameters** like, for example, `ρ₀` *(influence radius)*, *gain matrices* for controllers or the order `r` of teh Estimator
 - **Waypoint Positions**
 - **Disturbances**
 
