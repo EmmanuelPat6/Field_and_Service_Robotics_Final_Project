@@ -14,9 +14,10 @@
 - Ceiling Effect 🏗️⬆️
 
 ## Available Directory in this Repository 📂 ##
-- Hierarchical_Control_APF
-- Geometric_Control_APF
-- Passivity_Based_Control_APF
+- Hierarchical_Control
+- Geometric_Control
+- Passivity_Based_Control
+- Improved_APF
 - Plots
 - Video
 
@@ -27,13 +28,14 @@
 Each repository contains the necessary **MATLAB** and **Simulink** files for the corresponding implementation.  
 Some files may appear in multiple repositories, as they serve the same purpose across different setups.
 
-## 🎯 Position Goal Repository (Improved APF)
+## 🎯 Improved APF Repository
 
 This repository is designed to test an **Improved Artificial Potential Field (APF)** Algorithm capable of overcoming the **Local Minima Problem**.
 To visualize the **Local Minima Problem**, a folder named `Traditional_APF_Simulink` has been included. It contains the classic APF implementation that clearly shows how the UAV can get stuck in Local Minima.
 
 
-## 📍➡️📍➡️ Waypoints Repositories with Hierarchical Control, Geometric Control & Passivity-Based Control
+## 📍➡️📍➡️ Repositories with Hierarchical Control, Geometric Control & Passivity-Based Control
+
 They includes an extended simulation scenario with **Multiple Obstacles** and **Several Waypoints**.
 Three control strategy have been implemented:
 - 🔗 **Hierarchical Control**
